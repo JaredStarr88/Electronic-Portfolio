@@ -4,8 +4,11 @@ during my time at Jacksonville State University.  To quickly view a description 
 To open or run these files, you will need the following software:
 
 Unity3d - https://unity3d.com/get-unity/download/archive
+
 Gamemaker Studio - https://www.yoyogames.com/studio/download
+
 Blender - https://www.blender.org/download/
 
 Jared Starr
+
 jaredstarr88@gmail.com
